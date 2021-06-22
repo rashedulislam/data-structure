@@ -21,7 +21,7 @@ int selection_sort ( int A[], int n ){
 
 int main()
 {
-  int array[100], c, n, result;
+  int array[100], c, n;
 
   printf("Enter number of elements in array\n");
   scanf("%d", &n);
